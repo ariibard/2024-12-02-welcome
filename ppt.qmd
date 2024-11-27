@@ -38,7 +38,7 @@ embed-resources: true
 :::
 :::
 
-# Organizadoras <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px"/> 
+# Organizadoras <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px"/>  {.section}
 
 ::: columns
 ::: {.column width="50%"}
