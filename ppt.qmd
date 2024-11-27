@@ -1,0 +1,88 @@
+---
+title: "R en Buenos Aires presenta"
+subtitle: "<strong>Big data, medios digitales y autogestión: cómo trabajar con millones de noticias</strong>"
+author: "Expositores: <em>Manuel Iglesias, Joaquín Lovizio Ramos, Ariana Bardauil, Santiago Marta y Sofía Rubinstein</em>"
+institute: "Universidad de Flores"
+format:
+  revealjs:
+    transition: slide
+    footer: "[R en Buenos Aires](https://renbaires.github.io/about) presentación realizada con [Quarto](https://quarto.org/)" 
+    theme: [serif, mitheme.scss]
+    logo: imagenes/icon.png
+    css: logo.css
+    fig.align: "center"
+embed-resources: true
+---
+
+# Código de conducta
+
+::: incremental
+-   🌈 Nuestro objetivo es que disfrutes este espacio. Si algo no está bien, avísanos.
+
+-   🛡️ Todos los espacios de participación R en Buenos Aires, se rigen por el [Código de conducta de R en Buenos Aires.](https://renbaires.github.io/cdc)
+:::
+
+# Agradecimientos 
+
+![](imagenes/logos_agradecimiento.png)
+
+# ¿Quienes somos? {.section}
+
+::: columns
+::: {.column width="30%"}
+<br> ![hex logo R en Buenos Aires](https://renbaires.github.io/assets/icons/icon.png)
+:::
+
+::: {.column width="70%"}
+<br> **R en Buenos Aires** surge con la misión de conectar a quienes usan el lenguaje de programación R en Buenos Aires, independientemente de su grado de conocimiento y el ámbito de aplicación del mismo. El objetivo es promover el uso R, el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios.
+:::
+:::
+
+# Organizadoras <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px"/> 
+
+::: columns
+::: {.column width="50%"}
+![](https://avatars.githubusercontent.com/u/45582182?v=4){width="30%" style="border-radius: 80%;"}
+
+**Andrea Gomez Vargas**
+:::
+
+::: {.column width="50%"}
+![](imagenes/ari.jpg){width="30%" style="border-radius: 80%; aling: center;"}
+
+**Ariana Bardauil**
+:::
+:::
+
+# Comunidad <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100px"/> 
+
+::: columns
+::: {.column width="50%"}
+***¡Sumate a nuestra comunidad!***
+
+[![](imagenes/qr_slack.png){fig-alt="Sumate a nuestra comunidad de slack!" fig-align="center"}](https://renbaires.slack.com/join/shared_invite/enQtNDY5NDQ3NzIzNTcwLTExYjAxZmIxNjNiYjE2NDg0YzAyNGM4OTEwNTkxYWYwNDhjMmI0YTY1ZGMwZTQ1MTliOTkwNGMyMDdjNWI4M2Y)
+:::
+
+::: {.column width="50%"}
+```{r}
+library(ggplot2)
+library(gganimate)
+
+
+data <- data.frame(
+  value = 0:578, 
+  frame = 1:579 
+)
+
+# Gráfico base
+ggplot(data, aes(x = 1, y = 1, label = value)) +
+  geom_text(size = 60, fontface = "bold", color = "#263e7e") +
+  theme_void() +
+  labs(title = "575 miembros en slack") +
+  theme(plot.title = element_text(size = 50, face = "bold", hjust = 0.5)) +
+  transition_time(frame) # Transición basada en frames
+```
+
+![](imagenes/logo_slack.png){fig-alt="Logo de Slack" fig-align="center" width="200"}
+:::
+:::

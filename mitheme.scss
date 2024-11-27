@@ -1,0 +1,79 @@
+/*-- scss:defaults --*/
+// colors
+$teal-light1: #fcfcfc;
+$teal-light2: #745775;
+$teal:        #266a7e;
+$teal-dark1:  #7e266a;
+$teal-dark2:  #267e3a;
+$orange:      #9ac6c5;
+$orange-light:#a5e6ba;
+$orange-dark: #263e7e;
+/*-- scss:defaults --*/
+
+@import url(https://fonts.googleapis.com/css?family=News+Cycle:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+
+// fonts
+$font-family-sans-serif: Lato, sans-serif !default;
+
+$presentation-font-size-root: 30px;
+$presentation-font-smaller: 0.7;
+$presentation-line-height: 1.2;
+
+/* Ajustar el tamaño de la letra del cuerpo */
+body {
+  font-size: 6px; /* Puedes ajustar este valor según lo que desees */
+}
+
+// colors
+$body-bg: #fefefe !default;
+$body-color: #1e1b1c !default;
+$link-color: $orange-dark !default;
+$selection-bg: #26351c;
+
+
+// Subtítulo en negrita y color violeta
+.reveal .subtitle {
+ /* font-weight: bold;  Negrita */
+  color: $body-color; /* Violeta (definido como $teal) */
+  font-size: 2em; /* Ajusta el tamaño según lo desees */
+}
+
+// Autor con fuente más pequeña que el subtítulo
+.reveal .author {
+  font-size: 0.7em; /* Más pequeño que el subtítulo */
+  color: $teal; /* Mantener color del texto o personalizar */
+  margin-top: 0.5em; /* Espacio entre subtítulo y autor */
+}
+
+// headings
+// headings
+$presentation-heading-font: "TT fors", sans-serif !default;
+$presentation-heading-color: #263e7e !default;
+$presentation-heading-line-height: 1.3;
+$presentation-h2-font-size: 1.4em;
+
+/*-- scss:rules --*/
+
+.reveal a {
+  line-height: 1.3em;
+}
+
+
+
+.section {
+  &:is(.slide-background) {
+  background: $orange-dark;
+  }
+}
+.section a {
+  color: #bfe4fe !important; /* Cambia el color de los links a blanco */
+}
+
+.section a:hover {
+  color: #bfe4fe !important; /* Cambia el color de los links al pasar el mouse */
+}
+// Background color sections
+section.has-dark-background a, section.has-dark-background a:hover {
+    color: #bfe4fe !important;
+}
