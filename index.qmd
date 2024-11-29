@@ -42,13 +42,13 @@ embed-resources: true
 
 ::: columns
 ::: {.column width="50%"}
-![](https://avatars.githubusercontent.com/u/45582182?v=4){width="30%" style="border-radius: 80%;"}
+![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%;"}
 
 **Andrea Gomez Vargas**
 :::
 
 ::: {.column width="50%"}
-![](imagenes/ari.jpg){width="30%" style="border-radius: 80%; aling: center;"}
+![](imagenes/ari.jpg){width="50%" style="border-radius: 80%; aling: center;"}
 
 **Ariana Bardauil**
 :::
@@ -58,13 +58,13 @@ embed-resources: true
 
 ::: columns
 ::: {.column width="50%"}
-![](https://avatars.githubusercontent.com/u/64991969?v=4){width="30%" style="border-radius: 80%;"}
+![](https://avatars.githubusercontent.com/u/64991969?v=4){width="50%" style="border-radius: 80%;"}
 
 **Emanuel Ciardullo**
 :::
 
 ::: {.column width="50%"}
-![](imagenes/jose.png){width="30%" style="border-radius: 80%; aling: center;"}
+![](imagenes/jose.png){width="50%" style="border-radius: 80%; aling: center;"}
 
 **Jose García Tácite**
 :::
@@ -106,20 +106,20 @@ ggplot(data, aes(x = 1, y = 1, label = value)) +
 # Próximas actividades <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="90"/> 
 
 
-# `ar_censo` & Brindis 🍷 {.section}
+# `arcenso` & Brindis 🍷 {.section}
 
 ::: columns
 ::: {.column width="40%"}
-![](imagenes/arcenso.png){width="300"}
+![](imagenes/arcenso.png){width="400"}
 :::
 
 ::: {.column width="60%"}
 <br> <br> <br>
-📆 X de Diciembre
+📆 A confirmar 
 
 📌 Lugar
 
-💟 Junto con [R Ladies BA](https://rladiesba.netlify.app/)
+💟 Junto con [R-Ladies BA](https://rladiesba.netlify.app/) & CEIL - CONICET
 :::
 :::
 
@@ -137,7 +137,10 @@ ggplot(data, aes(x = 1, y = 1, label = value)) +
 
 📚[Mastering Shiny](https://mastering-shiny.org/)
 
-💟 Junto con [R Ladies BA](https://rladiesba.netlify.app/)
+💟 Junto con [R-Ladies BA](https://rladiesba.netlify.app/) & 
+
+
+[R-Ladies Resistencia-Corrientes](https://twitter.com/rladies_rciacte)
 :::
 :::
 
