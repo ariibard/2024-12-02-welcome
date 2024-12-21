@@ -15,7 +15,7 @@ Oradora
 > Repositorio de la presentación de bienvenida realizada para el [meetup de R Big data, medios digitales y autogestión: cómo trabajar con millones de noticias](https://www.meetup.com/renbaires/events/304692329). El link a la presentación es este: https://renbaires.github.io/2024-12-02-welcome/
 
 
-## {Dicen los Medios}📦 - Big data, medios digitales y autogestión: cómo trabajar con millones de noticias
+## Dicen los Medios - Big data, medios digitales y autogestión: cómo trabajar con millones de noticias
 
 Oradores
 - [Joaquín Lovizio Ramos](https://github.com/joaquilovi-arg)
