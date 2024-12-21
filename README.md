@@ -25,7 +25,7 @@ Oradores
 - [Santiago Marta](https://www.linkedin.com/in/santiago-marta-175376ba/)
 
 #### Links de interés
--[chaski](https://chaski.com.ar/#/como-usar-la-api): desarrollo propio que scrapea, almacena y disponibiliza noticias de portales de web.
+- [chaski](https://chaski.com.ar/#/como-usar-la-api): desarrollo propio que scrapea, almacena y disponibiliza noticias de portales de web.
 - [visus](https://dicenlosmedios.gitlab.io/visus/#/): herramientas de visualización de datos diseñadas ad hoc para reportes.
 - [shiny-dlm](https://dicenlosmedios.shinyapps.io/Shiny-DLM/): tablero interactivo desarrollado con Shiny App.
 
