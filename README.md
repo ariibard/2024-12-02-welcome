@@ -1,6 +1,5 @@
 # Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Presentación realizada para 
 
 ## Big data, medios digitales y autogestión: cómo trabajar con millones de noticias
 Meet up organizado[R en Buenos Aires](https://github.com/renbaires) <img height="27" src="https://avatars.githubusercontent.com/u/43609757" alt="r en buenos aires logo"> y [Dicen los medios](https://dicenlosmedios.com.ar/)
