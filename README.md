@@ -31,6 +31,6 @@ Oradores
 
 
 #### Slides
-- [Presentación - Dicen los Medios]([https://www.canva.com/design/DAGXWZKcJTo/PCR6dAA6B6oGNnSJhMCDqQ/edit?utm_content=DAGXWZKcJTo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGXWZKcJTo/63yBKbxUU_GFRc9Q7XsowA/view?utm_content=DAGXWZKcJTo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haf342a959c))
+- [Presentación - Dicen los Medios](https://www.canva.com/design/DAGXWZKcJTo/63yBKbxUU_GFRc9Q7XsowA/view?utm_content=DAGXWZKcJTo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haf342a959c)
 
 
